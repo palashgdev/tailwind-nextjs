@@ -1,4 +1,3 @@
-import Footer from "components/Footer";
 import Header from "components/Header";
 
 const AppLayout = ({ children }: AppLayoutProps): JSX.Element => {
@@ -6,7 +5,6 @@ const AppLayout = ({ children }: AppLayoutProps): JSX.Element => {
     <div className="flex flex-col min-h-screen">
       <Header />
       <main className="flex-grow">{children}</main>
-      <Footer />
     </div>
   );
 };
