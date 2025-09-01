@@ -6,7 +6,7 @@
   "author": "Palash <palashgdev@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.19.3",
+    "@babel/core": "^7.28.3",
     "@headlessui/react": "1.7.3",
     "@react-hook/media-query": "1.1.1",
     "@storybook/addon-actions": "^6.5.12",
